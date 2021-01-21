@@ -1,3 +1,4 @@
+#Script to read text from images and write into a text file 
 #module imports
 from pytesseract import image_to_string
 from PIL import Image
